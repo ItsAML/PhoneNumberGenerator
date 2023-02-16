@@ -44,3 +44,6 @@ for file_num in range(num_files):
     print(f"{threenum}PART{file_num}: DONE...")
 
 print('all completed successfully')
+
+# @AMLDevelopment on telegram
+# https://github.com/ItsAML
