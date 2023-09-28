@@ -1,6 +1,6 @@
 # PhoneNumberGenerator
 
-📎 Creating a complete number bank just by entering a 3-digit prefix :)
+📎 Creating a complete number bank just by entering a 3-digit prefix
 
 prerequisites:
 openpyxl library
@@ -24,6 +24,6 @@ Click Run and then wait until the files are completely created for you.
 
 After the files are created, transfer them to the phone and use the Contacts Tool program to convert and import them into phone contacts (the program does this automatically).
 
-I have also prepared 4 complete packages for numbers 912, 918, 935, 936 :)
+I have also prepared 4 complete packages for numbers 912, 918, 935, 936.
 
 #️⃣ | #Script #Python
